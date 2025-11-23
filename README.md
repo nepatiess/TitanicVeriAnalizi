@@ -1,4 +1,5 @@
 <img src="https://raw.githubusercontent.com/nepatiess/TitanicVeriAnalizi/refs/heads/main/titanicpng.png" >
+
 # 🚢 Titanic Veri Analizi Projesi
 
 ## 📝 Proje Hakkında
