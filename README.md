@@ -20,15 +20,6 @@ Bu proje, 1912 yılında batan RMS Titanic gemisindeki yolcuların hayatta kalma
 
 ---
 
-## 🎯 Proje Hedefleri
-
-1. **Veri Temizleme:** Eksik verileri (özellikle Age sütunu) medyan ile doldurma
-2. **Gruplama Analizi:** Cinsiyet, sınıf ve yaş gruplarına göre hayatta kalma oranlarını hesaplama
-3. **Görselleştirme:** Seaborn kullanarak Countplot ve Boxplot grafikleri oluşturma
-4. **İstatistiksel Çıkarım:** Hangi faktörlerin hayatta kalmayı etkilediğini belirleme
-
----
-
 ## 🛠️ Kullanılan Teknolojiler
 
 | Teknoloji | Versiyon | Kullanım Amacı |
@@ -39,19 +30,6 @@ Bu proje, 1912 yılında batan RMS Titanic gemisindeki yolcuların hayatta kalma
 | **Seaborn** | Latest | İstatistiksel görselleştirme |
 | **Matplotlib** | Latest | Grafik çizimi |
 | **Jupyter Notebook** | Latest | Etkileşimli geliştirme ortamı |
-
----
-
-## 📂 Dosya Yapısı
-
-```
-titanic-analiz/
-│
-├── titanic_analiz.ipynb    # Ana Jupyter Notebook dosyası
-├── README.md               # Proje dokümantasyonu
-└── data/
-    └── titanic.csv         # Titanic veri seti (otomatik indirilir)
-```
 
 ---
 
