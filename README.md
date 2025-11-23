@@ -27,33 +27,6 @@ Bu proje, 1912 yılında batan RMS Titanic gemisindeki yolcuların hayatta kalma
 
 ---
 
-## 🚀 Kurulum ve Çalıştırma
-
-### 1️⃣ Google Colab ile (Önerilen - En Kolay Yöntem)
-
-> ✅ **Google Colab kullanarak herhangi bir kurulum yapmadan projeyi çalıştırabilirsiniz!**
-
-1. [Google Colab](https://colab.research.google.com) sayfasını açın
-2. **Dosya → Not Defteri Yükle** seçeneğini tıklayın
-3. `titanic_analiz.ipynb` dosyasını yükleyin
-4. **Çalışma Zamanı → Tümünü Çalıştır** ile projeyi başlatın
-
-### 2️⃣ Yerel Kurulum (Opsiyonel)
-
-> ℹ️ **Bilgi:** Yerel bilgisayarınızda çalıştırmak için Python 3.8+ yüklü olmalıdır.
-
-```bash
-# 1. Gerekli kütüphaneleri yükleyin
-pip install pandas numpy seaborn matplotlib jupyter
-
-# 2. Jupyter Notebook'u başlatın
-jupyter notebook
-
-# 3. titanic_analiz.ipynb dosyasını açın
-```
-
----
-
 ## 📊 Veri Seti Bilgileri
 
 ### Sütun Açıklamaları
