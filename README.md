@@ -1,4 +1,4 @@
-<img src="https://media.githubusercontent.com/media/nepatiess/PopBalloon/main/PopBalloon/Assets/UI/github%20banner%201.png" >
+<img src="https://raw.githubusercontent.com/nepatiess/TitanicVeriAnalizi/refs/heads/main/titanicpng.png" >
 # 🚢 Titanic Veri Analizi Projesi
 
 ## 📝 Proje Hakkında
