@@ -1,12 +1,4 @@
-# TitanicVeriAnalizi
 # 🚢 Titanic Veri Analizi Projesi
-
-![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![Pandas](https://img.shields.io/badge/Pandas-Latest-150458.svg)
-![Seaborn](https://img.shields.io/badge/Seaborn-Latest-76b900.svg)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
-
----
 
 ## 📝 Proje Hakkında
 
