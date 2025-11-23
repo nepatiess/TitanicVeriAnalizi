@@ -233,55 +233,7 @@ sns.set_style()         # Stil ayarı
 
 ---
 
-## 🎓 Öğrenilen Konular
-
-### Veri Bilimi Becerileri
-- ✅ Veri yükleme ve ön işleme
-- ✅ Eksik veri yönetimi
-- ✅ Özellik mühendisliği
-- ✅ Gruplama ve toplama işlemleri
-- ✅ Korelasyon analizi
-- ✅ İstatistiksel görselleştirme
-
-### Python Kütüphaneleri
-- ✅ Pandas: DataFrame manipülasyonu
-- ✅ NumPy: Sayısal hesaplamalar
-- ✅ Seaborn: İleri düzey grafikler
-- ✅ Matplotlib: Grafik özelleştirme
-
----
-
-## 🐛 Bilinen Sorunlar ve Çözümler
-
-### Sorun 1: Türkçe Karakter Görünmüyor
-**Çözüm:**
-```python
-plt.rcParams['font.family'] = 'DejaVu Sans'
-```
-
-### Sorun 2: Grafik Kesiliyor
-**Çözüm:**
-```python
-plt.tight_layout()
-```
-
-### Sorun 3: Colab'da Veri Yüklenmiyor
-**Çözüm:**
-- İnternet bağlantısını kontrol edin
-- URL'nin doğru olduğundan emin olun
-- `requests` kütüphanesini güncelleyin
-
----
-
 ## 📚 Kaynaklar
 
 ### Veri Seti
 - **Kaynak:** [Kaggle - Titanic Dataset](https://www.kaggle.com/c/titanic/data)
-- **Lisans:** Public Domain
-- **Yıl:** 1912 (Veri toplama: 2012)
-
-### Referanslar
-1. [Pandas Documentation](https://pandas.pydata.org/docs/)
-2. [Seaborn Gallery](https://seaborn.pydata.org/examples/index.html)
-3. [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
-4. [Titanic Historical Facts](https://www.history.com/topics/early-20th-century-us/titanic)
