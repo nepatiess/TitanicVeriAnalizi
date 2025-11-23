@@ -1,3 +1,4 @@
+<img src="https://media.githubusercontent.com/media/nepatiess/PopBalloon/main/PopBalloon/Assets/UI/github%20banner%201.png" >
 # 🚢 Titanic Veri Analizi Projesi
 
 ## 📝 Proje Hakkında
